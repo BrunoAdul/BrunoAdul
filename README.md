@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Websites ,Machine Learning And Ai And Data Analytics,,I'm looking to collaborate on open source Enterprise Soteware and AI Models  , I'm currently learning large language models and AI Agents , Ask me About Software Development, Machine Learning and Linux Administration
+I’m currently developing innovative websites while advancing projects in machine learning, AI, and data analytics. I welcome opportunities to collaborate on open-source enterprise software and AI models. I’m also deepening my expertise in large language models and AI agents. Feel free to reach out if you’d like to discuss software development, machine learning, or Linux administration.
 
 
 ## 🌐 Socials:
